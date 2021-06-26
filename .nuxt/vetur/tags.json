@@ -1,0 +1,29 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Dropdown": {
+    "description": "Auto imported from components/dropdown/index.vue"
+  },
+  "Fetch": {
+    "description": "Auto imported from components/fetch/index.vue"
+  },
+  "FooterSect": {
+    "description": "Auto imported from components/footerSect/index.vue"
+  },
+  "LoaderScroll": {
+    "description": "Auto imported from components/loaderScroll/index.vue"
+  },
+  "LoaderSect": {
+    "description": "Auto imported from components/loaderSect/index.vue"
+  },
+  "NavbarComponent": {
+    "description": "Auto imported from components/navbarComponent/index.vue"
+  },
+  "SearchSect": {
+    "description": "Auto imported from components/searchSect/index.vue"
+  },
+  "SlideshowComps": {
+    "description": "Auto imported from components/slideshowComps/index.vue"
+  }
+}

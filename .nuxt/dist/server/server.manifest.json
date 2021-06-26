@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/fetch.js": "components/fetch.js",
+    "components/loader-scroll.js": "components/loader-scroll.js",
+    "components/loader-sect.js": "components/loader-sect.js",
+    "components/logo.js": "components/logo.js",
+    "components/slideshow-comps.js": "components/slideshow-comps.js",
+    "pages/404.js": "pages/404.js",
+    "pages/about.js": "pages/about.js",
+    "pages/detail/_slug.js": "pages/detail/_slug.js",
+    "pages/index.js": "pages/index.js",
+    "pages/search/_slug.js": "pages/search/_slug.js",
+    "pages/tag/_slug.js": "pages/tag/_slug.js",
+    "pages/tester.js": "pages/tester.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/fetch.js": "components/fetch.js.map",
+    "components/loader-scroll.js": "components/loader-scroll.js.map",
+    "components/loader-sect.js": "components/loader-sect.js.map",
+    "components/logo.js": "components/logo.js.map",
+    "components/slideshow-comps.js": "components/slideshow-comps.js.map",
+    "pages/404.js": "pages/404.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/detail/_slug.js": "pages/detail/_slug.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/search/_slug.js": "pages/search/_slug.js.map",
+    "pages/tag/_slug.js": "pages/tag/_slug.js.map",
+    "pages/tester.js": "pages/tester.js.map",
+    "server.js": "server.js.map"
+  }
+}

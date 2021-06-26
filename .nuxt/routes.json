@@ -1,0 +1,44 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\404.vue",
+    "chunkName": "pages/404"
+  },
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "tester",
+    "path": "/tester",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\tester.vue",
+    "chunkName": "pages/tester"
+  },
+  {
+    "name": "detail-slug",
+    "path": "/detail/:slug?",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\detail\\\\_slug.vue",
+    "chunkName": "pages/detail/_slug"
+  },
+  {
+    "name": "search-slug",
+    "path": "/search/:slug?",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug"
+  },
+  {
+    "name": "tag-slug",
+    "path": "/tag/:slug?",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\tag\\\\_slug.vue",
+    "chunkName": "pages/tag/_slug"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Administrator\\\\Documents\\\\pageskeps\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
